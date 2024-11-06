@@ -1,0 +1,11 @@
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\bin\Debug\net8.0\Petfolio.Communication.pdb
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll

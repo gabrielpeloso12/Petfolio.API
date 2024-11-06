@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE85BC75-9FBB-4DE5-B1EB-6B8236B16232}|Petfolio.API\\Petfolio.API.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE85BC75-9FBB-4DE5-B1EB-6B8236B16232}|Petfolio.API\\Petfolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.application\\usecases\\pet\\delete\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pet\\delete\\deletepetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\response\\responsepetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\response\\responsepetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.application\\usecases\\pet\\getbyid\\getpetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pet\\getbyid\\getpetbyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.application\\usecases\\pet\\getall\\getallpetsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pet\\getall\\getallpetsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\response\\responseallpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\response\\responseallpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\response\\responseshortpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\response\\responseshortpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\response\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\response\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.application\\usecases\\pet\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pet\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.application\\usecases\\pet\\register\\registerpetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7063295F-89B4-4594-BABA-0C3576B738F2}|Petfolio.Application\\Petfolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pet\\register\\registerpetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\request\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\request\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|d:\\c#\\rocketseat\\criando uma api em .net\\petfolio\\petfolio.communication\\response\\responseregisterpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F776F8E-2118-4835-9BD2-BA95D93DE918}|Petfolio.Communication\\Petfolio.Communication.csproj|solutionrelative:petfolio.communication\\response\\responseregisterpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PetController.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeDocumentMoniker": "Petfolio.API\\Controllers\\PetController.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.API\\Controllers\\PetController.cs",
+              "RelativeToolTip": "Petfolio.API\\Controllers\\PetController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAewEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:59:38.145Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePetByIdUseCase.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Delete\\DeletePetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pet\\Delete\\DeletePetByIdUseCase.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Delete\\DeletePetByIdUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pet\\Delete\\DeletePetByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:26:45.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPetByIdUseCase.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\GetById\\GetPetByIdUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pet\\GetById\\GetPetByIdUseCase.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\GetById\\GetPetByIdUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pet\\GetById\\GetPetByIdUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:00:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponsePetJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponsePetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Response\\ResponsePetJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponsePetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Response\\ResponsePetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T22:56:09.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllPetsUseCase.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\GetAll\\GetAllPetsUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pet\\GetAll\\GetAllPetsUseCase.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\GetAll\\GetAllPetsUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pet\\GetAll\\GetAllPetsUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:27:24.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseAllPetJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseAllPetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Response\\ResponseAllPetJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseAllPetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Response\\ResponseAllPetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:24:13.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseShortPetJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseShortPetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Response\\ResponseShortPetJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseShortPetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Response\\ResponseShortPetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:18:09.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseErrorsJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseErrorsJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Response\\ResponseErrorsJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseErrorsJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Response\\ResponseErrorsJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:10:55.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePetUseCase.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Update\\UpdatePetUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pet\\Update\\UpdatePetUseCase.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Update\\UpdatePetUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pet\\Update\\UpdatePetUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:56:25.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterPetUseCase.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Register\\RegisterPetUseCase.cs",
+              "RelativeDocumentMoniker": "Petfolio.Application\\UseCases\\Pet\\Register\\RegisterPetUseCase.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Application\\UseCases\\Pet\\Register\\RegisterPetUseCase.cs",
+              "RelativeToolTip": "Petfolio.Application\\UseCases\\Pet\\Register\\RegisterPetUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:27:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseRegisterPetJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseRegisterPetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Response\\ResponseRegisterPetJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Response\\ResponseRegisterPetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Response\\ResponseRegisterPetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:09:29.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestPetJson.cs",
+              "DocumentMoniker": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Request\\RequestPetJson.cs",
+              "RelativeDocumentMoniker": "Petfolio.Communication\\Request\\RequestPetJson.cs",
+              "ToolTip": "D:\\C#\\Rocketseat\\Criando uma API em .NET\\Petfolio\\Petfolio.Communication\\Request\\RequestPetJson.cs",
+              "RelativeToolTip": "Petfolio.Communication\\Request\\RequestPetJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:02:32.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
