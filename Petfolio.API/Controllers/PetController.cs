@@ -19,7 +19,6 @@ public class PetController : ControllerBase
     public IActionResult Register([FromBody] RequestPetJson request)
     {
         var response = new RegisterPetUseCase().Execute(request);
-
         return Created(string.Empty, response);
     }
 
@@ -31,15 +30,12 @@ public class PetController : ControllerBase
     {
         var useCase = new UpdatePetUseCase();
         useCase.Execute(id, request);
-
         return NoContent();
     }
 
     [HttpGet]
-        //alguns preferem que devolve um objeto do tipo em questão que está trabalhando, e dentro seus nós com response 
-    [ProducesResponseType(typeof(ResponseAllPetJson), StatusCodes.Status200OK)]
-        //Devolve a lista sem objetos
-    //[ProducesResponseType(typeof(List<ResponseShortPetJson>), StatusCodes.Status200OK)]
+    //[ProducesResponseType(typeof(List<ResponseShortPetJson>), StatusCodes.Status200OK)] //Devolve a lista sem array de objetos, no caso json "solto"    
+    [ProducesResponseType(typeof(ResponseAllPetJson), StatusCodes.Status200OK)] //Devolve um objeto um array com seus objetos
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     public IActionResult GetAll()
     {

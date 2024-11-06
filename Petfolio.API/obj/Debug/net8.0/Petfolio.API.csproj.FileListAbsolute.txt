@@ -34,3 +34,4 @@ D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.API\obj\Debug\net8.0\
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.pdb
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.genruntimeconfig.cache
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.API\obj\Debug\net8.0\ref\Petfolio.API.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.API\obj\Debug\net8.0\Petfolio.API.sourcelink.json

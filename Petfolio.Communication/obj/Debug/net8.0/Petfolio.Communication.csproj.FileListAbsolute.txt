@@ -9,3 +9,4 @@ D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Deb
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.pdb
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Communication\obj\Debug\net8.0\Petfolio.Communication.sourcelink.json

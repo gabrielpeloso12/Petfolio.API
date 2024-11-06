@@ -13,3 +13,4 @@ D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Application\obj\Debug
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Application\obj\Debug\net8.0\refint\Petfolio.Application.dll
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.pdb
 D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Application\obj\Debug\net8.0\ref\Petfolio.Application.dll
+D:\C#\Rocketseat\Criando uma API em .NET\Petfolio\Petfolio.Application\obj\Debug\net8.0\Petfolio.Application.sourcelink.json
